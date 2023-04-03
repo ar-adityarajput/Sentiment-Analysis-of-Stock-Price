@@ -7,7 +7,10 @@ The study aimed to identify keywords that had the most significant influence on 
 
 Key findings from the study include:
 
-A correlation exists between social media sentiment and stock market performance for major NASDAQ-listed companies.
-Certain keywords were found to have a strong influence on the sentiment of social media posts, affecting stock prices.
-There is a relationship between the number of tweets and the trade volume of these companies, suggesting that increased social media activity can impact stock market dynamics.
-![Architecture of Sentiment-Analysis-for-Predicting-Stock-Price-Behaviour ](https://github.com/ar-adityarajput/Sentiment-Analysis-of-Stock-Price/blob/main/Projects%20Images/Architecture.png)
+..> A correlation exists between social media sentiment and stock market performance for major NASDAQ-listed companies.
+..> Certain keywords were found to have a strong influence on the sentiment of social media posts, affecting stock prices.
+..> There is a relationship between the number of tweets and the trade volume of these companies, suggesting that increased social media activity can impact stock market dynamics.
+
+# Architecture of Sentiment-Analysis-for-Predicting-Stock-Price-Behaviour
+___
+![Architecture of Sentiment-Analysis-for-Predicting-Stock-Price-Behaviour](https://github.com/ar-adityarajput/Sentiment-Analysis-of-Stock-Price/blob/main/Projects%20Images/Architecture.png)
