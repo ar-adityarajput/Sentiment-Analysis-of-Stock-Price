@@ -1,4 +1,4 @@
-# Sentiment-Analysis-for-Predicting-Stock-Price-Behaviour-
+# Sentiment-Analysis-for-Predicting-Stock-Price-Behaviour
 In this study, the impact of social media posts on stock prices of major NASDAQ-listed companies such as Apple, Google, Amazon, Tesla, and Microsoft was investigated. The research analyzed data from Twitter and Reddit to understand the influence of social media sentiment on these companies' stock performance.
 
 A dataset was prepared by collecting news, company names, and stock prices associated with these companies. Data wrangling was performed to clean the dataset for better analysis. Two sentiment analysis models, VADER and FinBERT, were used to analyze the sentiment of social media posts.
