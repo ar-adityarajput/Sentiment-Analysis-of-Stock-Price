@@ -17,4 +17,4 @@ Key findings from the study include:
 
 ### Why FinBert?
 
-![Why FinBert was selected](https://github.com/ar-adityarajput/Sentiment-Analysis-of-Stock-Price/blob/main/Projects%20Images/BERT%20to%20finBERT.png)
+![Why FinBert was selected](https://github.com/ar-adityarajput/Sentiment-Analysis-of-Stock-Price/blob/main/Projects%20Images/Why%20finBERT.png)
