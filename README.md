@@ -10,3 +10,4 @@ Key findings from the study include:
 A correlation exists between social media sentiment and stock market performance for major NASDAQ-listed companies.
 Certain keywords were found to have a strong influence on the sentiment of social media posts, affecting stock prices.
 There is a relationship between the number of tweets and the trade volume of these companies, suggesting that increased social media activity can impact stock market dynamics.
+(![alt text](http://url/to/img.png))
