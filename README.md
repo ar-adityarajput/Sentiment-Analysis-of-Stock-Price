@@ -11,6 +11,10 @@ Key findings from the study include:
 ..> Certain keywords were found to have a strong influence on the sentiment of social media posts, affecting stock prices.
 ..> There is a relationship between the number of tweets and the trade volume of these companies, suggesting that increased social media activity can impact stock market dynamics.
 
-# Architecture of Sentiment-Analysis-for-Predicting-Stock-Price-Behaviour
-___
+### Architecture of Sentiment-Analysis-for-Predicting-Stock-Price-Behaviour
+
 ![Architecture of Sentiment-Analysis-for-Predicting-Stock-Price-Behaviour](https://github.com/ar-adityarajput/Sentiment-Analysis-of-Stock-Price/blob/main/Projects%20Images/Architecture.png)
+
+### why FinBert?
+
+(https://github.com/ar-adityarajput/Sentiment-Analysis-of-Stock-Price/blob/main/Projects%20Images/BERT%20to%20finBERT.png)
