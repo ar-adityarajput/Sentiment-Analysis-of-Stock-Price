@@ -15,6 +15,6 @@ Key findings from the study include:
 
 ![Architecture of Sentiment-Analysis-for-Predicting-Stock-Price-Behaviour](https://github.com/ar-adityarajput/Sentiment-Analysis-of-Stock-Price/blob/main/Projects%20Images/Architecture.png)
 
-### why FinBert?
+### Why FinBert?
 
-(https://github.com/ar-adityarajput/Sentiment-Analysis-of-Stock-Price/blob/main/Projects%20Images/BERT%20to%20finBERT.png)
+![Why FinBert was selected](https://github.com/ar-adityarajput/Sentiment-Analysis-of-Stock-Price/blob/main/Projects%20Images/BERT%20to%20finBERT.png)
